@@ -11,7 +11,7 @@
 📔 You can explore some of my academic and personal projects on my GitHub repository: [DataScienceProjects](https://github.com/manasiChoughule/DataScienceProjects/). I welcome any feedback or collaboration opportunities on my journey of data exploration and analysis.
 
 💪 Technical Skills:
-Programming Languages: Python | R | Java
+Programming Languages: Python | R | Java\
 Machine Learning Frameworks: TensorFlow | Keras | Scikit-learn | XGBoost | LightGBM
 NLP Libraries: NLTK | spaCy | Gensim | BERT | stanza
 Data Visualization: Matplotlib | Seaborn | Plotly | Tableau | MS Power BI
