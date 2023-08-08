@@ -10,17 +10,17 @@
 
 📔 You can explore some of my academic and personal projects on my GitHub repository: [DataScienceProjects](https://github.com/manasiChoughule/DataScienceProjects/). I welcome any feedback or collaboration opportunities on my journey of data exploration and analysis.
 
-💪 Technical Skills:
+💪 Technical Skills:\
 Programming Languages: Python | R | Java\
-Machine Learning Frameworks: TensorFlow | Keras | Scikit-learn | XGBoost | LightGBM
-NLP Libraries: NLTK | spaCy | Gensim | BERT | stanza
-Data Visualization: Matplotlib | Seaborn | Plotly | Tableau | MS Power BI
-Databases: MySQL | MongoDB | PostgreSQL
-Version Control: Git | GitHub
-Data Preprocessing: Pandas | NumPy | Scipy
-Feature Engineering: Featuretools | Sklearn-Feature-Selection
-Deep Learning Architectures: CNNs | RNNs | Transformers
-Model Deployment: Flask | FastAPI | Docker | Kubernetes
-Cloud Platforms: AWS | Google Cloud Platform
-Statistical Analysis: Hypothesis Testing | Regression Analysis
+Machine Learning Frameworks: TensorFlow | Keras | Scikit-learn | XGBoost | LightGBM\
+NLP Libraries: NLTK | spaCy | Gensim | BERT | stanza\
+Data Visualization: Matplotlib | Seaborn | Plotly | Tableau | MS Power BI\
+Databases: MySQL | MongoDB | PostgreSQL\
+Version Control: Git | GitHub\
+Data Preprocessing: Pandas | NumPy | Scipy\
+Feature Engineering: Featuretools | Sklearn-Feature-Selection\
+Deep Learning Architectures: CNNs | RNNs | Transformers\
+Model Deployment: Flask | FastAPI | Docker | Kubernetes\
+Cloud Platforms: AWS | Google Cloud Platform\
+Statistical Analysis: Hypothesis Testing | Regression Analysis\
 Time Series Analysis: ARIMA | SARIMA | Holt-Winters' Exponential Smoothing
