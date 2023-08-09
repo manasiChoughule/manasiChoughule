@@ -8,7 +8,7 @@
 
 💻 As I look ahead, my path unfolds as a Data Scientist, where I aspire to utilize my analytical mindset to assist businesses in making data-driven decisions. My expertise lies in analyzing data, uncovering patterns, and deriving actionable insights. I'm captivated by the power of data to reveal hidden opportunities and solve real-world challenges. The art of transforming raw data into a compelling story is my passion, ensuring that the insights are not only accurate but also impactful.
 
-📔 You can explore some of my academic and personal projects on my GitHub repository: [DataScienceProjects](https://github.com/manasiChoughule/DataScienceProjects/). I welcome any feedback or collaboration opportunities on my journey of data exploration and analysis.
+📔 You can explore some of my academic and personal projects on my GitHub repository: [Git Repo](https://github.com/manasiChoughule?tab=repositories). I welcome any feedback or collaboration opportunities on my journey of data exploration and analysis.
 
 💪 Technical Skills:\
 Programming Languages: Python | R | Java\
